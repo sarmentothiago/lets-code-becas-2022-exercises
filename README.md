@@ -1,2 +1,2 @@
 # lets-code-becas-2022-exercises
-Thiago Let's Code Exercises
+Let's Code Exercises answers by Thiago Sarmento
